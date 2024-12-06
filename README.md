@@ -1,3 +1,7 @@
+# QuoteStream - Live Demo 🎥
+
+[**Live Demo**](https://quote-stream.vercel.app/)
+
 # QuoteStream
 
 QuoteStream is a React-based web application that displays an infinite scrolling list of quotes. It allows users to seamlessly browse through an extensive collection of quotes, with features like lazy loading for optimal performance.
